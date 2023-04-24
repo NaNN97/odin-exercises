@@ -1,0 +1,31 @@
+Name the eight data types in JavaScript. - string, number, bigint, boolean, undefined, null, symbol, object
+
+// Numbers:
+let length = 16;
+let weight - 7.5;
+
+// Strings:
+let color = "Yellow"
+let lastName = "Johnson"
+
+// Booleans
+let x = true;
+let y = false;
+
+// Object:
+const person = {firstName:"John", lastName:"Doe"};
+
+// Array object:
+const cars = ["Saab", "Volvo", "BMW"];
+
+// Date object:
+const date = new Date("2022-03-25");
+
+Understand the difference between single, double, and backtick quotes.
+Embed a variable/expression in a string.
+Understand what a method is.
+Name the three logical operators.
+Understand what the comparison operators are.
+Understand what conditionals are.
+Understand what nesting is.
+Understand what truthy and falsy values are.
